@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="appBackground">#EEEEEE</color>
+    <color name="appUnderLine">#DEDEDE</color>
+    <color name="colorPrimaryFont">#ff333333</color>
+    <color name="colorSecondFont">#ff666666</color>
+    <color name="colorTertiaryFont">#ff999999</color>
+    <color name="colorCameraFont">#5677FC</color>
+    <color name="colorActivation">#34A26F</color>
+    <color name="colorNoActivationDialog">#D9A5A5</color>
+    <color name="colorActivationDialog">#8AA589</color>
+    <color name="colorNoActivation">#D94848</color>
+    <color name="colorErrorFont">#BC3636</color>
+    <color name="line_bg">#DEDEDE</color>
+    <color name="colorCopyright">#919191</color>
+
+</resources>
